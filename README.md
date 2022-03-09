@@ -1,4 +1,5 @@
 # TF2 Transfer Learning
+* To use the code of this repo is necessary to download the [PetFinder dataset](https://www.kaggle.com/c/petfinder-pawpularity-score/data) and add it to `project/input`
 
 Concise Example of Transfer Learning in Keras & TensorFlow 2.0  
 
